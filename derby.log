@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Oct 04 16:06:43 BDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-a276-445a-0000075292c8 
+on database directory memory:D:\Learning\Java\Prectices\SpringBootJUnitMockito-TDD\26ceac24-251c-4921-af94-5c471770eb5e with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/golam.mostafa/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_301-b09
+user.dir=D:\Learning\Java\Prectices\SpringBootJUnitMockito-TDD
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Oct 04 16:06:55 BDT 2022:
+Shutting down instance a816c00e-0183-a276-445a-0000075292c8 on database directory memory:D:\Learning\Java\Prectices\SpringBootJUnitMockito-TDD\26ceac24-251c-4921-af94-5c471770eb5e with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
